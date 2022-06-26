@@ -1,4 +1,3 @@
-from this import s
 import numpy as np
 import pygame
 import sys
